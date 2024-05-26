@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5640D5A-91FF-4E34-A453-4A4CAAA0C19B}|EventManagement2024\\EventManagement2024.csproj|c:\\users\\silano\\source\\repos\\eventmanagementlibrary\\eventmanagement2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5640D5A-91FF-4E34-A453-4A4CAAA0C19B}|EventManagement2024\\EventManagement2024.csproj|solutionrelative:eventmanagement2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A26A0A8-F843-4EE8-A7B0-BEF42E50E064}|EventManagementLibrary\\EventManagementLibrary.csproj|C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\eventmanagementlibrary\\models\\fullaccessticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A26A0A8-F843-4EE8-A7B0-BEF42E50E064}|EventManagementLibrary\\EventManagementLibrary.csproj|solutionrelative:eventmanagementlibrary\\models\\fullaccessticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A26A0A8-F843-4EE8-A7B0-BEF42E50E064}|EventManagementLibrary\\EventManagementLibrary.csproj|C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\eventmanagementlibrary\\models\\vipticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A26A0A8-F843-4EE8-A7B0-BEF42E50E064}|EventManagementLibrary\\EventManagementLibrary.csproj|solutionrelative:eventmanagementlibrary\\models\\vipticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A26A0A8-F843-4EE8-A7B0-BEF42E50E064}|EventManagementLibrary\\EventManagementLibrary.csproj|c:\\users\\silano\\source\\repos\\eventmanagementlibrary\\eventmanagementlibrary\\models\\ticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A26A0A8-F843-4EE8-A7B0-BEF42E50E064}|EventManagementLibrary\\EventManagementLibrary.csproj|solutionrelative:eventmanagementlibrary\\models\\ticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A26A0A8-F843-4EE8-A7B0-BEF42E50E064}|EventManagementLibrary\\EventManagementLibrary.csproj|C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\eventmanagementlibrary\\models\\standardticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A26A0A8-F843-4EE8-A7B0-BEF42E50E064}|EventManagementLibrary\\EventManagementLibrary.csproj|solutionrelative:eventmanagementlibrary\\models\\standardticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A26A0A8-F843-4EE8-A7B0-BEF42E50E064}|EventManagementLibrary\\EventManagementLibrary.csproj|C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\eventmanagementlibrary\\enum\\viptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A26A0A8-F843-4EE8-A7B0-BEF42E50E064}|EventManagementLibrary\\EventManagementLibrary.csproj|solutionrelative:eventmanagementlibrary\\enum\\viptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 361,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\EventManagement2024\\Program.cs",
+              "RelativeDocumentMoniker": "EventManagement2024\\Program.cs",
+              "ToolTip": "C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\EventManagement2024\\Program.cs",
+              "RelativeToolTip": "EventManagement2024\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:30:39.48Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FullAccessTicketModel.cs",
+              "DocumentMoniker": "C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\EventManagementLibrary\\Models\\FullAccessTicketModel.cs",
+              "RelativeDocumentMoniker": "EventManagementLibrary\\Models\\FullAccessTicketModel.cs",
+              "ToolTip": "C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\EventManagementLibrary\\Models\\FullAccessTicketModel.cs",
+              "RelativeToolTip": "EventManagementLibrary\\Models\\FullAccessTicketModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:58:47.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VipTicketModel.cs",
+              "DocumentMoniker": "C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\EventManagementLibrary\\Models\\VipTicketModel.cs",
+              "RelativeDocumentMoniker": "EventManagementLibrary\\Models\\VipTicketModel.cs",
+              "ToolTip": "C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\EventManagementLibrary\\Models\\VipTicketModel.cs",
+              "RelativeToolTip": "EventManagementLibrary\\Models\\VipTicketModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:59:05.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketModel.cs",
+              "DocumentMoniker": "C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\EventManagementLibrary\\Models\\TicketModel.cs",
+              "RelativeDocumentMoniker": "EventManagementLibrary\\Models\\TicketModel.cs",
+              "ToolTip": "C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\EventManagementLibrary\\Models\\TicketModel.cs",
+              "RelativeToolTip": "EventManagementLibrary\\Models\\TicketModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:29:13.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StandardTicketModel.cs",
+              "DocumentMoniker": "C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\EventManagementLibrary\\Models\\StandardTicketModel.cs",
+              "RelativeDocumentMoniker": "EventManagementLibrary\\Models\\StandardTicketModel.cs",
+              "ToolTip": "C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\EventManagementLibrary\\Models\\StandardTicketModel.cs",
+              "RelativeToolTip": "EventManagementLibrary\\Models\\StandardTicketModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:58:37.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VipType.cs",
+              "DocumentMoniker": "C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\EventManagementLibrary\\Enum\\VipType.cs",
+              "RelativeDocumentMoniker": "EventManagementLibrary\\Enum\\VipType.cs",
+              "ToolTip": "C:\\Users\\Silano\\source\\Repos\\EventManagementLibrary\\EventManagementLibrary\\Enum\\VipType.cs",
+              "RelativeToolTip": "EventManagementLibrary\\Enum\\VipType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:12:06.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagement2024\bin\Debug\EventManagement2024.exe.config
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagement2024\bin\Debug\EventManagement2024.exe
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagement2024\bin\Debug\EventManagement2024.pdb
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagement2024\bin\Debug\EventManagementLibrary.dll
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagement2024\bin\Debug\EventManagementLibrary.pdb
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagement2024\obj\Debug\EventManagement2024.csproj.AssemblyReference.cache
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagement2024\obj\Debug\EventManagement2024.csproj.CoreCompileInputs.cache
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagement2024\obj\Debug\EventMan.BFE76A81.Up2Date
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagement2024\obj\Debug\EventManagement2024.exe
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagement2024\obj\Debug\EventManagement2024.pdb

@@ -1,0 +1,6 @@
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagementLibrary\bin\Debug\EventManagementLibrary.dll
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagementLibrary\bin\Debug\EventManagementLibrary.pdb
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagementLibrary\obj\Debug\EventManagementLibrary.csproj.AssemblyReference.cache
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagementLibrary\obj\Debug\EventManagementLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagementLibrary\obj\Debug\EventManagementLibrary.dll
+C:\Users\Silano\source\Repos\EventManagementLibrary\EventManagementLibrary\obj\Debug\EventManagementLibrary.pdb
